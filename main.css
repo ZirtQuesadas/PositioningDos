@@ -1,0 +1,67 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	 }
+div
+	{	
+	opacity: 0.8;
+	border-radius: 3px;
+	margin: 0px;
+	vertical-align: left;
+	}
+.sizebig 
+	{
+	height: 200px;
+	width: 200px;
+	}
+.sizemed
+	{
+	height: 100px;
+	width: 100px;	
+	}
+.sizelit
+	{
+	height: 50px;
+	width: 50px;	
+	}
+.static
+	{
+	position: static;	
+	}
+.relative
+	{
+	position: relative;	
+	}
+.absolute
+	{
+	position: absolute;	
+	}	
+.amarillo 
+	{
+	background-color: yellow;
+	opacity: 0.9;
+	}
+.azul
+	{
+	background-color: blue;
+	}
+.rojo 
+	{
+	background-color: red;
+	}
+.negro
+	{
+	background-color: black;
+	}
+.verde
+	{
+	background-color: green;
+	margin-left: 50px;
+	}
+.morado
+	{
+	background-color: purple;
+	margin-left: 50px;
+	top: 50px;
+	}
+/* Inserta tu CSS aqui */
